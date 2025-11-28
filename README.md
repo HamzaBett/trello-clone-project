@@ -54,13 +54,6 @@ The application follows a clean architecture pattern with:
 docker-compose up --build
 ```
 
-## API Documentation
-
-See [API Docs](./docs/api.md) for detailed endpoint information.
-
-## Socket.IO Events
-
-See [Socket Events](./docs/socket-events.md) for real-time event documentation.
 
 ## Environment Variables
 
